@@ -1,2 +1,4 @@
 def hello1():
-  print("hello world")
+  print("adi")
+  
+hello()
